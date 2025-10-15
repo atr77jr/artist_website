@@ -1,0 +1,1 @@
+This is my first professional project developed during a professional course - a responsive official website for my favorite music artist T-REX. The website showcases hIS discography, biography, and features an interactive music player.
